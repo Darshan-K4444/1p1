@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
-
-int main() {
+int main()
+{
     int num1, num2, sum;
     cout << "Enter two numbers: ";
     cin >> num1 >> num2;
@@ -9,4 +9,3 @@ int main() {
     cout << "The sum is: " << sum << endl;
     return 0;
 }
-/commet in test
